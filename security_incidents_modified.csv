@@ -1,4 +1,4 @@
-﻿IncidentID,Date,Type,Severity,Description,Status,Status
+﻿IncidentID,Date,Type,Severity,Description,Status,Pending
 1,1/15/2023,Phishing,High,Phishing email targeting company employees,Pending,Pending
 2,1/20/2023,Malware,Medium,Malware detected on employee workstation,Pending,Pending
 3,2/5/2023,Ransomware,Critical,Ransomware attack encrypting company data,Pending,Pending
